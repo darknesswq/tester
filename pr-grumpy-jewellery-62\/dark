@@ -1,5 +1,0 @@
-LANGSMITH_TRACING=true
-LANGSMITH_ENDPOINT="https://api.smith.langchain.com"
-LANGSMITH_API_KEY="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"
-LANGSMITH_PROJECT="pr-grumpy-jewellery-62"
-OPENAI_API_KEY="<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>"
